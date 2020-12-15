@@ -1,3 +1,4 @@
 Programacion Orientada a Objetos
 Idea No 1 La POO es un paradigma que son estilos y formas de programar
 Idea No 2 Los objetos tienen datos y funcionamiento donde datos son atributos y funcionamiento son metodos
+Idea No 3 Istanciar es crear un objetos a partir de una clase
